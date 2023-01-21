@@ -1,4 +1,4 @@
-### Hi there 👋
+Segfault is not a bug. It's a unit test for your kernel.
 
 <!--
 **Frost-54/Frost-54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
